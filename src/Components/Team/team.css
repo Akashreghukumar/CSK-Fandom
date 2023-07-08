@@ -1,0 +1,31 @@
+.batters{
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.player_card{
+    height: 300px;
+    width: 270px;
+    background-color: white;
+    border-radius: 5%;
+}
+
+.imagearea{
+    display: flex;
+    justify-content: center;
+}
+
+.namearea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.playerimage{
+    width: 80%;
+}
